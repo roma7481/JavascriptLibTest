@@ -1,0 +1,3 @@
+include ':lunardayjs'
+include ':app'
+rootProject.name = "JavascriptDemo"
